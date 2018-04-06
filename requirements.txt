@@ -1,0 +1,11 @@
+gensim==0.13.3
+jsonlines==1.1.0
+missingno==0.3.5
+nltk==3.2.2
+pandas==0.20.1
+pandas_profiling==1.4.0
+pymorphy2==0.8
+tqdm==4.11.2
+vk_api==8.1
+cython
+feather-format
